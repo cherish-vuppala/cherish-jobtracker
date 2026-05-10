@@ -1,0 +1,28 @@
+package com.cherish.jobtracker.entities;
+
+public enum APPLICATION_STATUS {
+
+    SAVED,
+
+    APPLIED,
+
+    HR_SCREENING,
+
+    ONLINE_ASSESSMENT,
+
+    TECHNICAL_INTERVIEW,
+
+    MANAGERIAL_INTERVIEW,
+
+    FINAL_ROUND,
+
+    OFFER_RECEIVED,
+
+    OFFER_ACCEPTED,
+
+    OFFER_DECLINED,
+
+    REJECTED,
+
+    WITHDRAWN
+}
